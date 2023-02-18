@@ -7,7 +7,6 @@ d= -b*a*c
 if d < 0:
     print("La ecuación no tiene soluciones reales", d)
     
-
     Elif d= 0:
             x == -b/(2*a)
             print("la solición única es: ", x)
